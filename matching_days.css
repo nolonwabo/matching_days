@@ -1,0 +1,33 @@
+h1{
+  font-size: 60px;
+  font-style: italic;
+  color: black;
+  margin-left: 6em;
+
+}
+body{
+  background-color: pink;
+}
+li{
+list-style: none;
+display: inline-block;
+font-size: 20px;
+border: 2px solid black;
+width: 150px;
+height: 50px;
+border-radius: 1em;
+text-align: center;
+}
+.color1{
+  background-color: red;
+}
+.color2{
+  background-color: blue;
+}
+.color3{
+  background-color: green;
+}
+footer {
+  margin-top: 20em;
+  text-align: center;
+}
